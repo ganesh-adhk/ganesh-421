@@ -2,7 +2,7 @@
 
 🚀 **Full-Stack Developer | Laravel / React Expert**
 
-I'm an experienced developer specializing in crafting robust, scalable applications. With over 3.5 years of experience, I love working with modern web technologies and helping build solutions that make an impact.
+I'm an experienced developer specializing in crafting robust, scalable applications. With over 4 years of experience, I love working with modern web technologies and helping build solutions that make an impact.
 
 ### 🛠️ Tech Stack
 
